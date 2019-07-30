@@ -1,2 +1,2 @@
 # Learning to use Excel in a more advanced way
-Using data from Kickstarter to practice using excel more effectively.  
+Using data from Kickstarter to visualize outcomes for Kickstarter campaigns!
